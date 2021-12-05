@@ -1,0 +1,19 @@
+{
+  "name": "munayem_ahad_hw5_csi2520_fs2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MA21M/Munayem_Ahad_hw5_csi2520_fs2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MA21M/Munayem_Ahad_hw5_csi2520_fs2021/issues"
+  },
+  "homepage": "https://github.com/MA21M/Munayem_Ahad_hw5_csi2520_fs2021#readme"
+}
