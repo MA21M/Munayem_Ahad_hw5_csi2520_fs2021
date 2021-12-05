@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MA21M/Munayem_Ahad_hw5_csi2520_fs2021/issues"
   },
-  "homepage": "https://github.com/MA21M/Munayem_Ahad_hw5_csi2520_fs2021#readme"
+  "homepage": "https://github.com/MA21M/Munayem_Ahad_hw5_csi2520_fs2021#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
 }
